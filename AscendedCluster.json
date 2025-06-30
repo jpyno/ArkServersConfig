@@ -4,7 +4,7 @@
 		"settings":
 		{
 			"openbutton": 0,
-			"hideicon": false,
+			"hideicon": true,
 			"hideiconafter": 60,
 			"iconurl": "https://i.imgur.com/OZ6xOjY.png",
 			"disableicontext": false,
@@ -26,7 +26,7 @@
 					},
 					{
 						"title": "Rates + Rules",
-						"text": "Rules:\r\n\r\nDont ruin anyone elses enjoyment of the game, apart from that enjoy!\r\n\r\nRates:\r\n\r\n2x XP\r\n3x Harvest\r\n10x Breeding"
+						"text": "Rules:\r\n\r\nDont ruin anyone elses enjoyment of the game, apart from that enjoy!\r\n\r\nRates:\r\n\r\n2x XP\r\n3x Harvest\r\n10x Breeding\r\n\r\nServer maintainance will be carried out periodically, this will be announced in Discord beforehand"
 					}
 				]
 			}
