@@ -21,12 +21,12 @@
 				"imageurl": "https://i.imgur.com/mGt3cAF.png",
 				"content": [
 					{
-						"title": "Welcome To JP's Medieval Ark!",
-						"text": "JP's Medieval Ark is a cluster, self hosted in the UK. \r\n\r\nAll the hardware is owned and this ensures the longevity of the servers.\r\n\r\nMaps in the cluster:\r\n\r\nThe Island\r\nScorched Earth\r\nAberration\r\nExtinction\r\nThe Center\r\nRagnarok\r\nClub Ark\r\n\r\nMods:\r\n\r\nAutomated Ark\r\nUtilities Plus\r\nArkitect Structures Remastered\r\nDeath Recovery Item Tool\r\nArkNav\r\nJP's Baby Manager\r\nSolo Farm\r\nCustom Dino Levels\r\n\r\n\r\n"
+						"title": "Welcome To JP's Ark!",
+						"text": "JP's Ark is a cluster, self hosted in the UK. \r\n\r\nAll the hardware is owned and this ensures the longevity of the servers.\r\n\r\nMaps in the cluster:\r\n\r\nScorched Earth\r\nExtinction\r\nThe Center\r\nRagnarok\r\n\r\nMods:\r\n\r\nMedieval Guilds & Goblins\r\nArkNav\r\nSolo Farm\r\nCustom Dino Levels\r\n\r\n\r\n"
 					},
 					{
 						"title": "Rates + Rules",
-						"text": "Rules:\r\n\r\nDont ruin anyone elses enjoyment of the game, apart from that enjoy!\r\n\r\nRates:\r\n\r\n2x XP\r\n3x Harvest\r\n10x Breeding\r\n\r\nServer maintainance will be carried out periodically, this will be announced in Discord beforehand "
+						"text": "Rules:\r\n\r\nDont ruin anyone elses enjoyment of the game, apart from that enjoy!\r\n\r\nRates:\r\n\r\n2x XP\r\n3x Harvest\r\n10x Breeding\r\n\r\nServer maintainance will be carried out periodically, this will be announced in Discord beforehand"
 					}
 				]
 			}
@@ -37,11 +37,11 @@
 				"url": "https://discord.gg/Y98Put3yrV"
 			},
 			{
-				"text": "Medieval Guilds & Goblins Help",
+				"text": "AA / U+ Help",
 				"url": "https://discord.gg/K9AMpHRxyt"
 			},
 			{
-				"text": "ArkNav Help",
+				"text": "ArkNav / Baby Manager Help",
 				"url": "https://discord.gg/Y98Put3yrV"
 			}
 		],
