@@ -6,7 +6,7 @@
 			"openbutton": 0,
 			"hideicon": true,
 			"hideiconafter": 60,
-			"iconurl": "https://i.imgur.com/OZ6xOjY.png",
+			"iconurl": "https://raw.githubusercontent.com/jpyno/ArkServersConfig/main/JP_200x200.png",
 			"disableicontext": false,
 			"iconposition": 0,
 			"icontextcolor": 0,
@@ -18,7 +18,7 @@
 			{
 				"layout": 2,
 				"buttontext": "Welcome",
-				"imageurl": "https://i.imgur.com/mGt3cAF.png",
+				"imageurl": "https://raw.githubusercontent.com/jpyno/ArkServersConfig/main/JP_1920x1080.png",
 				"content": [
 					{
 						"title": "Welcome To JP's Ark!",
